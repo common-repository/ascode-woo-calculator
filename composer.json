@@ -1,0 +1,18 @@
+{
+    "name": "adnan/ascode-woo-calculator",
+    "description": "A plugin for build WooCommerce calculator",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "AsCode\\WooCalculator\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adnan159",
+            "email": "osmanhaider159@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
